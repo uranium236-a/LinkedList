@@ -1,5 +1,5 @@
 # LinkedList
-Implementation of Linked list in golang
+- Implementation of Linked list in golang
 
 ## Run the program: 
--go run linkedList.go
+- go run linkedList.go
